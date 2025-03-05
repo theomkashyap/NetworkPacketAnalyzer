@@ -23,3 +23,6 @@ The Network Packet Analyzer is built using **Python, Tkinter, and Scapy**, enabl
 1. Install the required dependencies using:  
    ```bash
    pip install scapy pandas
+2. Run the main interface:
+   ```bash
+   pip main.py
